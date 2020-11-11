@@ -14,7 +14,7 @@
 		</data>
 		<key>Headers/CGSizeExtensions.swift</key>
 		<data>
-		rvPiF35iFg/3ciuBm40j9rgcj6A=
+		QQUmMIezy5nPA3uRRWm2kOztMNc=
 		</data>
 		<key>Headers/HABFlowKit-Swift.h</key>
 		<data>
@@ -26,31 +26,31 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		S43QSFuXO/zqyC+NGMW4z+lnFuk=
+		BwnUJRsDHnAYJ5dg9Y52Hb/ojl8=
 		</data>
-		<key>Modules/HABFlowKit.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
+		<key>Modules/HABFlowKit.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		sS/Ok/+aGk8eRVamNXZlU39UIA0=
+		wgpIGfNtjd4tvadjmJHuCyKmy/Q=
 		</data>
-		<key>Modules/HABFlowKit.swiftmodule/Project/x86_64.swiftsourceinfo</key>
+		<key>Modules/HABFlowKit.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<data>
-		sS/Ok/+aGk8eRVamNXZlU39UIA0=
+		wgpIGfNtjd4tvadjmJHuCyKmy/Q=
 		</data>
-		<key>Modules/HABFlowKit.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<key>Modules/HABFlowKit.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		D3lN1pEulX7MpgG2ScGHVtIbP7E=
+		bJn9ZXP1pIRBULKEERXRi02hGqc=
 		</data>
-		<key>Modules/HABFlowKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<key>Modules/HABFlowKit.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		eE5AmHBZlELtcxRlmdDghLjsUlg=
+		G2K7pNlOTYIxkfOn4e1aAuIhJfk=
 		</data>
-		<key>Modules/HABFlowKit.swiftmodule/x86_64.swiftdoc</key>
+		<key>Modules/HABFlowKit.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		D3lN1pEulX7MpgG2ScGHVtIbP7E=
+		bJn9ZXP1pIRBULKEERXRi02hGqc=
 		</data>
-		<key>Modules/HABFlowKit.swiftmodule/x86_64.swiftmodule</key>
+		<key>Modules/HABFlowKit.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		eE5AmHBZlELtcxRlmdDghLjsUlg=
+		G2K7pNlOTYIxkfOn4e1aAuIhJfk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -85,11 +85,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rvPiF35iFg/3ciuBm40j9rgcj6A=
+			QQUmMIezy5nPA3uRRWm2kOztMNc=
 			</data>
 			<key>hash2</key>
 			<data>
-			h1z9t8u7IksAJmSlNKVpb21KF4k/5SFPeCT+KM8LA3o=
+			2mQ1PsVDgZ3ZU2lKiD0MV3XYs9hzwDXcKciR4tuo4Z0=
 			</data>
 		</dict>
 		<key>Headers/HABFlowKit-Swift.h</key>
@@ -114,70 +114,70 @@
 			isfKA+5oeA6iAX8o3X0D+LmVI4iGKXPeCzgEYz0Tf5M=
 			</data>
 		</dict>
-		<key>Modules/HABFlowKit.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
+		<key>Modules/HABFlowKit.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			sS/Ok/+aGk8eRVamNXZlU39UIA0=
+			wgpIGfNtjd4tvadjmJHuCyKmy/Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			h7oaJdak8jh/eEeYi8Kjyx4SgPDqIpKjR3gmlpdRrkA=
+			M4V7EcqsfD4BtgNfTr/wx++go7n3BtFA88+nQpfxzwE=
 			</data>
 		</dict>
-		<key>Modules/HABFlowKit.swiftmodule/Project/x86_64.swiftsourceinfo</key>
+		<key>Modules/HABFlowKit.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			sS/Ok/+aGk8eRVamNXZlU39UIA0=
+			wgpIGfNtjd4tvadjmJHuCyKmy/Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			h7oaJdak8jh/eEeYi8Kjyx4SgPDqIpKjR3gmlpdRrkA=
+			M4V7EcqsfD4BtgNfTr/wx++go7n3BtFA88+nQpfxzwE=
 			</data>
 		</dict>
-		<key>Modules/HABFlowKit.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<key>Modules/HABFlowKit.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			D3lN1pEulX7MpgG2ScGHVtIbP7E=
+			bJn9ZXP1pIRBULKEERXRi02hGqc=
 			</data>
 			<key>hash2</key>
 			<data>
-			omFbpcSh2A+S89aqu2UPK0AxLhlDCvY/g6dykmj2/po=
+			tAKaZp8ioGZ3dfxh93mVN5gTJPR/BK1eS6i0A0eA0fM=
 			</data>
 		</dict>
-		<key>Modules/HABFlowKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<key>Modules/HABFlowKit.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			eE5AmHBZlELtcxRlmdDghLjsUlg=
+			G2K7pNlOTYIxkfOn4e1aAuIhJfk=
 			</data>
 			<key>hash2</key>
 			<data>
-			4pnM9b3ZmXC7MeSSsDuMvj4LqWrY4OVacuXn0JQDSsI=
+			0LdMi+EepccN9N0w7mSB4DHXA/QFLR5ex3K1dHg7eKk=
 			</data>
 		</dict>
-		<key>Modules/HABFlowKit.swiftmodule/x86_64.swiftdoc</key>
+		<key>Modules/HABFlowKit.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			D3lN1pEulX7MpgG2ScGHVtIbP7E=
+			bJn9ZXP1pIRBULKEERXRi02hGqc=
 			</data>
 			<key>hash2</key>
 			<data>
-			omFbpcSh2A+S89aqu2UPK0AxLhlDCvY/g6dykmj2/po=
+			tAKaZp8ioGZ3dfxh93mVN5gTJPR/BK1eS6i0A0eA0fM=
 			</data>
 		</dict>
-		<key>Modules/HABFlowKit.swiftmodule/x86_64.swiftmodule</key>
+		<key>Modules/HABFlowKit.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			eE5AmHBZlELtcxRlmdDghLjsUlg=
+			G2K7pNlOTYIxkfOn4e1aAuIhJfk=
 			</data>
 			<key>hash2</key>
 			<data>
-			4pnM9b3ZmXC7MeSSsDuMvj4LqWrY4OVacuXn0JQDSsI=
+			0LdMi+EepccN9N0w7mSB4DHXA/QFLR5ex3K1dHg7eKk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

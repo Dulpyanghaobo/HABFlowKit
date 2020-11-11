@@ -4,7 +4,6 @@
 //
 //  Created by yhb on 2020/11/11.
 //
-import UIKit
 import CoreGraphics
 public extension CGSize {
     var aspectRatio: CGFloat {
