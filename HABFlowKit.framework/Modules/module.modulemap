@@ -1,0 +1,11 @@
+framework module HABFlowKit {
+  umbrella header "HABFlowKit.h"
+
+  export *
+  module * { export * }
+}
+
+module HABFlowKit.Swift {
+    header "HABFlowKit-Swift.h"
+    requires objc
+}
